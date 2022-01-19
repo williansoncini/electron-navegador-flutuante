@@ -1,0 +1,24 @@
+{
+  "name": "electron-navegador-flutuante",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williansoncini/electron-navegador-flutuante.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williansoncini/electron-navegador-flutuante/issues"
+  },
+  "homepage": "https://github.com/williansoncini/electron-navegador-flutuante#readme",
+  "devDependencies": {
+    "electron": "^16.0.7"
+  }
+}
