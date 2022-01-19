@@ -7,7 +7,7 @@ function createWindow () {
     win = new BrowserWindow({
         width: 800,
         height: 500,
-        // titleBarStyle: 'hidden',
+        titleBarStyle: 'hidden',
         alwaysOnTop: true,
     })
     win.loadURL(config.url)
